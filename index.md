@@ -10,7 +10,7 @@ title: Home
 
 ## Data Analyst | ICT Professional | Statistical Analyst
 
-Welcome to my professional portfolio! I'm a data analyst with experience in government statistics and educational analytics, currently pursuing my Master's degree at the University of the Sunshine Coast, Australia.
+Welcome to my professional portfolio! I'm a data analyst with experience in government statistics and educational analytics, currently pursuing my Master's degree in Information and Communication Technology (ICT) at the University of the Sunshine Coast, Australia.
 
 ---
 
@@ -44,7 +44,7 @@ Managed academic and operational data systems, creating performance tracking sol
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages & Tools:** Python, R, SQL, SPSS, Stata, Power BI, Tableau, Excel
 
@@ -59,11 +59,6 @@ Managed academic and operational data systems, creating performance tracking sol
 ### [Project 1: Sales Analysis Dashboard]
 Brief description of your project and its impact.  
 **Technologies:** Power BI 
-[View Project →](#)
-
-### [Project 2: Survey Data Analysis]
-Brief description of your project and its impact.  
-**Technologies:** SPSS, R, Tableau  
 [View Project →](#)
 
 
