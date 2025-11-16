@@ -20,7 +20,6 @@ I transform complex datasets into actionable insights that drive informed decisi
 
 - **📊 Data Analysis & Statistical Modeling**
 - **📈 Business Intelligence & Reporting**
-- **🗄️ Database Management & Data Engineering**
 - **🎯 Survey Design & Implementation**
 
 ---
