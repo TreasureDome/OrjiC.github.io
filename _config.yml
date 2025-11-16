@@ -53,3 +53,4 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+theme: jekyll-theme-minimal
