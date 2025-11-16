@@ -57,7 +57,38 @@ Managed academic and operational data systems, creating performance tracking sol
 ## 📊 Featured Projects
 
 ### [Project 1: Sales Analysis Dashboard]
-Brief description of your project and its impact.  
+This retail sales dashboard image provides a visually rich, data-driven scenario suitable for showcasing analytics and visualization skills in your portfolio. It represents a business intelligence solution designed for Zedro Mart, allowing stakeholders to monitor key retail metrics and uncover actionable insights.
+
+Scenario Brief
+Zedro Mart, a multisector retail business, needed a comprehensive dashboard to track and analyze its sales performance across various product categories and locations. The dashboard was developed to meet management's requirements for real-time visibility into revenue, transactions, category-based performance, discount usage, and payment methods trends.
+
+Dashboard Purpose
+Aggregate and display total revenue, transaction count, and average spend in a single view.
+
+Segment sales data by product categories, location (In-Store vs. Online), and monthly trends.
+
+Visualize the impact of category discounts and payment method preferences on customer behavior.
+
+Support decision-making with actionable insights from item quantity sold, revenue fluctuations, and payment usage patterns.
+
+Technical Implementation
+Data was processed and visualized using modern BI tools (such as Power BI or Tableau), leveraging data cleaning and aggregation techniques suitable for retail transaction datasets.
+
+Interactive filters allow users to slice data by location, category, and transaction date, supporting detailed exploration for business managers.
+
+Key performance indicators (KPIs) and visualizations, including bar charts and line graphs, offer immediate clarity on profitability, operational trends, and customer activity.
+
+Business Impact
+Enables management to identify high-performing categories and optimize inventory and marketing strategies.
+
+Highlights seasonal and monthly trends in revenue to support forecasting and planning.
+
+Assists in evaluating the effectiveness of promotional discount programs by category.
+
+Reveals preferred payment methods and purchasing behavior, informing customer engagement initiatives.
+
+Visual Reference
+The dashboard presents total revenue of $1,552,071 across 12,575 transactions, with an average spend of $123.43 per customer. Revenue, transaction quantities, and discount statistics are segmented by category and location, complemented by trend analyses and payment insight charts for targeted decision support.  
 **Technologies:** Power BI 
 [View Project →](#)
 
