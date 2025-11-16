@@ -1,0 +1,55 @@
+# Site Settings
+title: "Chinenye J.Orji | Data Analyst Portfolio"
+description: "Professional portfolio showcasing data analysis, statistical modeling, and business intelligence projects"
+author: "Chinenye J. Orji"
+email: jenniferudenweze@gmail.com
+baseurl: "" # Leave empty if using username.github.io
+url: "https://OrjiC.github.io"
+
+
+# Build Settings
+theme: jekyll-theme-minimal # You can change this to other themes
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation Menu
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - skills.md
+  - experience.md
+  - education.md
+  - contact.md
+
+
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+
+# Sass Settings
+sass:
+  style: compressed
+
+# Permalink structure
+permalink: /:title/
+
+# Timezone
+timezone: Australia/Brisbane
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
